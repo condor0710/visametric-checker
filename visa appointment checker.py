@@ -16,7 +16,7 @@ from telegram import Bot
 import asyncio
 
 # Your OCR.Space API key
-OCR_SPACE_API_KEY = 'K87794666288957'  # <-- your real API key
+OCR_SPACE_API_KEY = ''  # <-- your real API key
 
 # Email and Telegram configurations
 SEND_EMAIL = True
@@ -30,8 +30,8 @@ SENDER_PASSWORD = "your_password"
 RECIPIENT_EMAIL = "recipient_email@example.com"
 
 # Telegram bot details
-bot_token = '7646471491:AAGdSUQVnrLvjDsqzoV9vRWv8lSzJDLCyeY'
-chat_id = '544866351'  # This can be your user ID or a group chat ID
+bot_token = ''
+chat_id = ''  # This can be your user ID or a group chat ID
 
 
 def create_driver():
