@@ -172,3 +172,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Env
+.env
+
+# Captcha image
+captcha.png
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
